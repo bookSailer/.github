@@ -8,16 +8,16 @@
 <img width="1728" alt="1" src="https://github.com/bookSailer/.github/assets/84307361/67ee3829-fe7d-43ea-a2fa-6fd733cd0cbb">
 
 ### 2. fork한 레포의 git 주소를 복사 합니다.
-![image](https://github.com/bookSailer/.github/assets/84307361/d014aafa-4754-4efb-8e7e-9751fe6da9c2)
+<img width="1728" alt="2" src="https://github.com/bookSailer/.github/assets/84307361/bc885b76-9d41-45cc-961c-caaef4bfccf7">
 
 ### 3. 로컬에 해당 레포를 clone 합니다.
 <img width="1728" alt="3" src="https://github.com/bookSailer/.github/assets/84307361/696a002c-92fd-4bef-beb7-0bbd8d65e1ef">
 
 ### 4. fork한 깃허브 레포로 돌아와 브랜치 생성을 위해 view all branches를 클릭합니다.
-<img width="1728" alt="4" src="https://github.com/bookSailer/.github/assets/84307361/968a2ba2-a268-4866-b569-f10dd52dfbf7">
+<img width="1728" alt="스크린샷 2024-04-17 오후 9 36 49" src="https://github.com/bookSailer/.github/assets/84307361/3fb678c1-249f-4e29-a25d-161a940dcb09">
 
 ### 5. 새로운 브랜치를 chapter1_이름 형식으로 생성합니다.
-<img width="1728" alt="5" src="https://github.com/bookSailer/.github/assets/84307361/9067edf9-5ee0-47f0-a5fd-f6e865817c48">
+<img width="1728" alt="스크린샷 2024-04-17 오후 9 37 16" src="https://github.com/bookSailer/.github/assets/84307361/b204168b-ce8b-4a50-a5f7-0fafb3e968da">
 
 ### 6.  로컬의 터미널로 돌아와 복사된 레포 폴더 안으로 이동합니다.
 <img width="1728" alt="6" src="https://github.com/bookSailer/.github/assets/84307361/5aae97f8-60b0-4c75-a7d6-182c333d3ac7">
@@ -44,7 +44,7 @@
 <img width="1728" alt="13" src="https://github.com/bookSailer/.github/assets/84307361/8a336566-c108-46e6-835d-8905917ef81d">
 
 ### 14. fork한 chapter1_이름 브랜치에서 bookSailer의 main 브랜치로 PR을 만듭니다. PR 제목은 [bookSailer/functionalCoding] chapter1_최기환 형식으로 합니다.
-<img width="1728" alt="14" src="https://github.com/bookSailer/.github/assets/84307361/27462ff3-efff-4e01-b552-2332ae10ce52">
+<img width="1728" alt="스크린샷 2024-04-17 오후 9 39 40" src="https://github.com/bookSailer/.github/assets/84307361/78926814-3ac0-4950-b8ef-b1ad9af8710f">
 
 #### 15. PR에서 챕터에 맞는 label을 추가합니다.
 <img width="1728" alt="15" src="https://github.com/bookSailer/.github/assets/84307361/d5ce0d99-f8c5-4a44-b0e9-2512eace4b45">
